@@ -50,3 +50,5 @@ class UsernameAndPasswordProvider(AuthProvider):
     async def logout(self, request: Request, response: Response) -> Response:
         request.session.clear()
         return response
+
+print()
