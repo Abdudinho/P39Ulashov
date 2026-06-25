@@ -38,7 +38,6 @@ async def confirm_handler(message: Message):
         await message.answer(text=f"To'lo'vingiz uchun raxmat 😊 \n{total_amount}\n{order_id}")
 
 
-print("Payment bu ")
 
 """
 git init
@@ -48,3 +47,4 @@ git branch -M main
 git remote add origin https://github.com/Abdudinho/payments.git
 git push -u origin main
 """
+print("Payment bu ")
