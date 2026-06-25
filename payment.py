@@ -38,3 +38,4 @@ async def confirm_handler(message: Message):
         await message.answer(text=f"To'lo'vingiz uchun raxmat 😊 \n{total_amount}\n{order_id}")
 
 
+print("Payment bu ")
