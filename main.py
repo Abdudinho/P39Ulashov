@@ -8,3 +8,5 @@ git branch -M main
 git remote add origin https://github.com/Abdudinho/P39Ulashov.git
 git push -u origin main
 """
+
+print(2+2)
